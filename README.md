@@ -2,9 +2,8 @@
 
 Repositório criado para apoio nos estudos do Python, o qual abordará inicialmente uma introdução à Lógica de Programação Python, bem como conceitos especifícos do Python.
 
-## Introdução à Lógica de Programação com Python
+[-> Introdução à Lógica de Programação com Python](https://github.com/vivianikelly/estudos-logica-com-python/wiki/Introdu%C3%A7%C3%A3o-%C3%A0-L%C3%B3gica-de-Programa%C3%A7%C3%A3o-com-Python#introdu%C3%A7%C3%A3o)
 
-A lógica de programação é a base para desenvolver soluções computacionais. Envolve um conjunto de passos e regras para resolver problemas de forma sistemática, organizando o raciocínio para escrever programas que funcionem corretamente. Python é uma linguagem popular para aprender lógica de programação devido à sua simplicidade e legibilidade.
 
 ### Conceitos básicos de lógica de programação
 
